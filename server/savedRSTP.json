@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "name": "admin",
+    "username": "admin",
+    "password": "admin@123",
+    "host": "172.16.0.155:554/ch01/1"
+  },
+  {
+    "id": 1,
+    "name": "admin",
+    "username": "admin",
+    "password": "Admin@123",
+    "host": "172.16.0.144:554/ch01/1"
+  },
+  {
+    "id": 2,
+    "name": "admin",
+    "username": "admin",
+    "password": "Admin@123",
+    "host": " 172.16.0.144:554/ch01/1"
+  }
+]
